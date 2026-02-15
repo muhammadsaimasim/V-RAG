@@ -135,7 +135,7 @@ def display_results(query_pil, result_tensors, result_labels, distances):
 
 
 def main():
-    QUERY_IMAGE_PATH = "download (1).jpg"
+    QUERY_IMAGE_PATH = "download.jpg" #change the image for different querries.
 
     print("=" * 50)
     print("  Visual RAG  —  CIFAR-10 + CLIP + FAISS")
