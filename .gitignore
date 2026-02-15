@@ -1,0 +1,35 @@
+venv/
+.venv/
+env/
+.env/
+
+cifar_data/
+
+rag_results.png
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+*.pyc
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# .ipynb_checkpoints/
+# *.ipynb
+
+faiss_index.bin
+labels.npy
